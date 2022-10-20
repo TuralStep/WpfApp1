@@ -34,7 +34,7 @@
             FontSize="42"
             Background="Red"
             
-            MouseLeftButtonDown="buttonLeft_MouseDown"
+            PreviewMouseLeftButtonDown="buttonLeft_MouseDown"
             MouseRightButtonDown="buttonRight_MouseDown"
             Name ="btn_1"
             
@@ -48,7 +48,7 @@
             FontSize="42"
             Background="Green"
             
-            MouseLeftButtonDown="buttonLeft_MouseDown"
+            PreviewMouseLeftButtonDown="buttonLeft_MouseDown"
             MouseRightButtonDown="buttonRight_MouseDown"
             Name ="btn_2"
             
@@ -62,7 +62,7 @@
             FontSize="42"
             Background="Blue"
             
-            MouseLeftButtonDown="buttonLeft_MouseDown"
+            PreviewMouseLeftButtonDown="buttonLeft_MouseDown"
             MouseRightButtonDown="buttonRight_MouseDown"
             Name ="btn_3"
             
@@ -76,7 +76,7 @@
             FontSize="42"
             Background="Yellow"
             
-            MouseLeftButtonDown="buttonLeft_MouseDown"
+            PreviewMouseLeftButtonDown="buttonLeft_MouseDown"
             MouseRightButtonDown="buttonRight_MouseDown"
             Name ="btn_4"
             
@@ -90,7 +90,7 @@
             FontSize="42"
             Background="Purple"
             
-            MouseLeftButtonDown="buttonLeft_MouseDown"
+            PreviewMouseLeftButtonDown="buttonLeft_MouseDown"
             MouseRightButtonDown="buttonRight_MouseDown"
             Name ="btn_5"
             
@@ -104,7 +104,7 @@
             FontSize="42"
             Background="Bisque"
             
-            MouseLeftButtonDown="buttonLeft_MouseDown"
+            PreviewMouseLeftButtonDown="buttonLeft_MouseDown"
             MouseRightButtonDown="buttonRight_MouseDown"
             Name ="btn_6"
             
